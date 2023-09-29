@@ -1,4 +1,4 @@
-# Simi George Portfolio
+# Portfolio
 
 ### Education 
 Physics, PhD
